@@ -1,0 +1,17 @@
+{
+  "name": "scrapping",
+  "version": "1.0.0",
+  "description": "Scrap  the data from any of the website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sandip Baikare",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security"
+  }
+}
